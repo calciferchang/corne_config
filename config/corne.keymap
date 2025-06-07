@@ -89,7 +89,7 @@
             bindings = <&kp>, <&kp>;
             hold-trigger-on-release;
         };
-}
+};
 
     keymap {
         compatible = "zmk,keymap";
