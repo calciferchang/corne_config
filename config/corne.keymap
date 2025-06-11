@@ -100,7 +100,7 @@
 &none  &none           &kp W           &kp F               &kp P           &kp B          &kp J                  &kp L            &kp U                &kp Y            &none           &none
 &none  &mt LEFT_GUI A  &mt LEFT_ALT R  &mt LEFT_CONTROL S  &mt LEFT_GUI T  &kp G          &kp K                  &mt RIGHT_GUI N  &mt RIGHT_CONTROL E  &mt RIGHT_ALT I  &mt LEFT_GUI O  &none
 &none  &kp X           &kp C           &kp D               &kp V           &kp Z          &kp M                  &kp H            &kp COMMA            &kp DOT          &kp FSLH        &none
-                                       &kp LGUI            &mo 2           &lt 1 SPACE    &mt RIGHT_SHIFT ENTER  &mo 3            &kp RALT
+                                       &kp LGUI            &a mo 2           &lt 1 SPACE    &mt RIGHT_SHIFT ENTER  &mo 3            &kp RALT
             >;
         };
 
